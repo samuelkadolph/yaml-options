@@ -15,7 +15,5 @@ Gem::Specification.new do |gem|
 
   gem.required_ruby_version = ">= 1.9.2"
 
-  gem.add_dependency "activesupport", "~> 3.2"
-
   gem.add_development_dependency "rake", "~> 10.0.3"
 end
